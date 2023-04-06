@@ -30,6 +30,6 @@ app.post("/authenticate", async (req, res) => {
 	}
 })
 
-app.listen(3001)
+app.listen(3002)
 
 // 2fd8412e-5c3f-429d-8d51-a806e5dbcbc4
